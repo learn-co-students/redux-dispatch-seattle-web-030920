@@ -222,3 +222,4 @@ only be virtually re-rendering the DOM, and then updating the DOM with the
 smallest number of changes to ensure a performant application.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-dispatch'>Redux Dispatch</a> on Learn.co and start learning to code for free.</p>
+# SeattleParks
